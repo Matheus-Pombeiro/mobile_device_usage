@@ -43,3 +43,20 @@
 <p align='justify'>About the Apple status, this company is well positioned in the tech market and, since its foundation, Apple has been building customer loyalty all over the world. Some people only use Apple’s devices and don’t have the intention to switch to other brands. Nevertheless, Xiaomi, Samsung and the other electronic companies are still a threat to Apple, because every day new technologies (devices, software applications and solutions) are developed by several companies, which can have the same interests of Apple and different ones, too.</p>
 
 <p align='justify'>In some cases, trade disputes are influenced by governments. Apple is an American company, Xiaomi is a Chinese one and Samsung is a South Korean one. The US and China have shown competitiveness in the past, so this commercial fight among the companies can be influenced by political powers.</p>
+
+### 2.2 Gender which uses more mobile devices
+
+<p align='justify'>The dataset analyzed brings gender data and enables the analysis about which gender, male or female, is using more mobile devices. There are some factors which can influence this aspect, such as the professional environment, community, customs and religion where these users are involved. The financial and educational capacities of each user can determine the opportunities of their mobile device usage behavior as well.</p>
+
+<p align='justify'>Looking at the next graph, it’s possible to see the difference between the number of male and female users. The dataset indicates a bigger number of men using mobile devices than women. Although, the difference can be considered small because there is a kind of balance between them.</p>
+
+<div align="center">
+  <img src="assets/charts/gender_number.png" alt="Gender Number chart"/>
+</div>
+<br>
+
+<p align='justify'>Even so, the difference keeps there. Why? As it was described below, there are several factors which can influence this result, and a big one comes from social media usage. According to the <a href="https://www.oberlo.com/statistics/social-media-usage-by-gender" target="_blank" rel="noopener noreferrer">Oberlo</a> website, there is a study about this matter, which points out the fact that there are more men using social media than women.</p>
+
+<p align='justify'>Nowadays, social media are powerful tools used not only by common users, but by commercial companies, religious and governmental institutions and non-governmental organizations (NGOs). Social media are present all over the world and can be useful in different manners, like fun, chat, news, education, marketing, health, politics, etc.</p>
+
+<p align='justify'>There can be other reasons for this difference in the number of users between men and women. However, a more specialized research should be applied to explore the possibilities.</p>
