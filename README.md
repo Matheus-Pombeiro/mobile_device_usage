@@ -13,7 +13,7 @@
 <ul>
   <li>What’s the preferred device model? And which operating system this device uses? How can this impact the tech market?</li>
   <li>Are there more men or women using mobile devices? Is the difference big or small? Why?</li>
-  <li>What’s the battery drain (min/day) mean and its standard deviation according to the preferred device model? And how can this impact the environment?</li>
+  <li>What’s the battery drain (mAh/day) mean and its standard deviation according to the preferred device model? And how can this impact the environment?</li>
   <li>Do men usually spend more time using mobile devices than women? Or do women use them more? Why?</li>
   <li>What’s the maximum data usage (MB/day) and their relation with the number of apps installed? For what reason could a person use so much data per day?</li>
   <li>What’s the mean of age among the users? Who are the oldest and youngest people? Who spends more time using mobile devices, the oldest or the youngest person? And what operating system do they prefer?</li>
