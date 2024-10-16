@@ -75,3 +75,14 @@
 <p align='justify'>Through the results it’s possible to realize the difference of mean and standard deviation between the two devices. At a first look, this difference isn’t big, but if it’s calculated based on mAh/year, not by day, the difference could impact on several factors, such as the consumer's choice when they’re buying a new device.</p>
 
 <p align='justify'>Although, the focus is to analyze how this battery consumption can impact on the environment. The battery drain rating of a mobile device can vary based on many factors. And, thinking about the environment's well-being, there is a necessity of renewable energy sources, because smartphones are tools, which require batteries to work, used with frequency all over the world. So, if those sources won’t be well cared for and explored, the environment can suffer in several ways, like pollution and exhaustion of those non renewable ones.</p>
+
+### 2.4 Mobile device usage by gender
+
+<p align='justify'>It was said before that there are more men using more mobile devices than women, and according to a study pointed out by the <a href="https://www.oberlo.com/statistics/social-media-usage-by-gender" target="_blank" rel="noopener noreferrer">Oberlo</a> website, women spend more time using social media than men. However, there are many other possibilities for usage of smartphones, and, because of that, it was analyzed which gender spends more time using and has more apps installed on them. To do that, these two variables were summed by each gender.</p>
+
+<div align="center">
+  <img src="assets/charts/mobile_device_usage_by_gender.png" alt="Mobile Device Usage by Gender chart"/>
+</div>
+<br>
+
+<p align='justify'>The dataset indicates that men spend more time using and have more apps installed on mobile devices than women. Why? A focused research should be applied to find truthful evidence about the reason behind it. But, according to the <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8200210/#:~:text=Overall%2C%20the%20literature%20shows%20that,the%20numbers%20of%20female%20gamers." target="_blank" rel="noopener noreferrer">National Library of Medicine</a> website, nowadays there are more men playing video games than women. The mobile gaming market grew from 2020 to 2023 year (<a href="https://sensortower.com/blog/state-of-mobile-gaming-2024" target="_blank" rel="noopener noreferrer">Sensor Tower</a>) and this can influence the two previous variables.</p>
