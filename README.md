@@ -60,3 +60,18 @@
 <p align='justify'>Nowadays, social media are powerful tools used not only by common users, but by commercial companies, religious and governmental institutions and non-governmental organizations (NGOs). Social media are present all over the world and can be useful in different manners, like fun, chat, news, education, marketing, health, politics, etc.</p>
 
 <p align='justify'>There can be other reasons for this difference in the number of users between men and women. However, a more specialized research should be applied to explore the possibilities.</p>
+
+### 2.3 Battery drain mean of the preferred device model
+
+<p align='justify'>Nowadays, the consumption of energy is a serious matter. There are many companies looking for ways to generate or reuse energy sources, especially those renewables, like the sun. Big investments have been applying to extract energy from those sources and to keep them alive. And knowing the massive use of mobile devices by the mondial human population in general, it’s interesting to think about the battery drain caused by them.</p>
+
+<p align='justify'>So, based on the dataset used in this project, it was calculated the mean and the standard deviation of the both preferred device models, Xiaomi Mi 11 and iPhone 12. The mean and standard deviation of the Xiaomi Mi 11 in mAh/day is, respectively, 1528.88 and 821.44. The mean and standard deviation of the iPhone 12 in mAh/day is, respectively, 1589.51 and 817.18.</p>
+
+<div align="center">
+  <img src="assets/charts/battery_drain_preferred_device_model.png" alt="Battery drain by preferred device model chart"/>
+</div>
+<br>
+
+<p align='justify'>Through the results it’s possible to realize the difference of mean and standard deviation between the two devices. At a first look, this difference isn’t big, but if it’s calculated based on mAh/year, not by day, the difference could impact on several factors, such as the consumer's choice when they’re buying a new device.</p>
+
+<p align='justify'>Although, the focus is to analyze how this battery consumption can impact on the environment. The battery drain rating of a mobile device can vary based on many factors. And, thinking about the environment's well-being, there is a necessity of renewable energy sources, because smartphones are tools, which require batteries to work, used with frequency all over the world. So, if those sources won’t be well cared for and explored, the environment can suffer in several ways, like pollution and exhaustion of those non renewable ones.</p>
