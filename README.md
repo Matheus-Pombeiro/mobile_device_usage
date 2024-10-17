@@ -86,3 +86,16 @@
 <br>
 
 <p align='justify'>The dataset indicates that men spend more time using and have more apps installed on mobile devices than women. Why? A focused research should be applied to find truthful evidence about the reason behind it. But, according to the <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8200210/#:~:text=Overall%2C%20the%20literature%20shows%20that,the%20numbers%20of%20female%20gamers." target="_blank" rel="noopener noreferrer">National Library of Medicine</a> website, nowadays there are more men playing video games than women. The mobile gaming market grew from 2020 to 2023 year (<a href="https://sensortower.com/blog/state-of-mobile-gaming-2024" target="_blank" rel="noopener noreferrer">Sensor Tower</a>) and this can influence the two previous variables.</p>
+
+### 2.5 Relation between data usage and number of apps installed
+
+<p align='justify'>There is a big concern by technology users nowadays about the capacity of storage in a device. Governments, companies, professionals and common users care about this. There are some solutions for this problem, and a popular one is storage in the cloud, which can make it easier for them. Although, is there a relation between the data usage (MB/day) and number of apps installed on a smartphone?</p>
+
+<div align="center">
+  <img src="assets/charts/data_usage_number_apps_installed.png" alt="Data Usage and Number of Apps Installed chart"/>
+</div>
+<br>
+
+<p align='justify'>Answering the previous question, yes, there can be a relation between these two variables. Through the chart it’s possible to see a linear progression when the data is organized from the minimum to the maximum value. Please, note that when the number of apps installed grows, the data usage grows, as well. But why?</p>
+
+<p align='justify'>As it was pointed out before, the storage in the cloud can be a great ally of different kinds of users. Even so, there are a lot of mobile app options in the market for several purposes, and they can be considered “light” or “heavy”. This means that they may need less or more storage capacity. And depending on the purpose for what a mobile app was developed, it can influence its necessities. For example, a mobile game has a different way to store its data, especially those multiplayer ones, than a to-do app.</p>
