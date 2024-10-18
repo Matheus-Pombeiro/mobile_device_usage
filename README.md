@@ -99,3 +99,11 @@
 <p align='justify'>Answering the previous question, yes, there can be a relation between these two variables. Through the chart it’s possible to see a linear progression when the data is organized from the minimum to the maximum value. Please, note that when the number of apps installed grows, the data usage grows, as well. But why?</p>
 
 <p align='justify'>As it was pointed out before, the storage in the cloud can be a great ally of different kinds of users. Even so, there are a lot of mobile app options in the market for several purposes, and they can be considered “light” or “heavy”. This means that they may need less or more storage capacity. And depending on the purpose for what a mobile app was developed, it can influence its necessities. For example, a mobile game has a different way to store its data, especially those multiplayer ones, than a to-do app.</p>
+
+### 2.6 User age, screen on time and preferred operating system
+
+<p align='justify'>Analyzing the dataset it was calculated the user age mean, which is approximately 38.5 years old. The oldest users are 59 years old and the youngest ones are 18 years old. There is a difference among these results, intervals of almost 20 years.</p>
+
+<p align='justify'>The usage time by the oldest and youngest users was calculated based on the median of each of them. The usage time median of the oldest users is 5 hours/day and the youngest ones is 4 hours/day. So, in general, the oldest users used to use smartphones for more time than the youngest ones.</p>
+
+<p align='justify'>The preferred operating system between the oldest and youngest users is Android. To discover the reason behind it will be necessary to apply a specific research among them, taking into account their cultural, economic and academic differences.</p>
