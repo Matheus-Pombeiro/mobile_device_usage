@@ -107,3 +107,19 @@
 <p align='justify'>The usage time by the oldest and youngest users was calculated based on the median of each of them. The usage time median of the oldest users is 5 hours/day and the youngest ones is 4 hours/day. So, in general, the oldest users used to use smartphones for more time than the youngest ones.</p>
 
 <p align='justify'>The preferred operating system between the oldest and youngest users is Android. To discover the reason behind it will be necessary to apply a specific research among them, taking into account their cultural, economic and academic differences.</p>
+
+### 2.7  Biggest and smallest user behavior class
+
+<p align='justify'>The dataset classifies each user through its own system called ‘User Behavior Class”, determining the usage of mobile devices by them. A user can be classified from 1 to 5, depending on their data in this dataset.</p>
+
+<p align='justify'>There is a bigger presence of men in the biggest and even in the smallest user behavior class. As it was analyzed through this dataset before, there are more men using mobile devices than women, so this can be a possible cause for this.</p>
+
+## 3. Final Conclusions
+
+<p align='justify'>During the development of this data science project, where it was analyzed the mobile device usage behavior, it was answered some questions based on the dataset structure and kinds of data available to be processed and analyzed. Some charts were plotted to show the relation between different variables and calculations were made to discover meaning on the data, such as mean and median.</p>
+
+<p align='justify'>The dataset used in this project provides many opportunities to dive deep into this topic. The whole project was developed by its author, but, to answer some questions, it was researched on the internet.</p>
+
+<p align='right'>Matheus V. G. Pombeiro</p>
+
+<p align='right'>October 19, 2024</p>
